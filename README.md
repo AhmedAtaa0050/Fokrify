@@ -1,4 +1,3 @@
 # Forkify project
 
-recipe application to get all recipes you need
-it has more than 1 milion recipe
+The recipes application to get all the recipes you need, as it contains more than a million recipes
